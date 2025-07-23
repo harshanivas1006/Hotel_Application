@@ -105,7 +105,7 @@
 
     <div class="thankyou">
         <p>Thank you for ordering with <strong>Foodie's Paradise</strong>!</p>
-        <p>Your delicious meal will arrive soon.</p>
+        <B><p>Your delicious meal will arrive soon.</p></B>
     </div>
 
     <div class="buttons">
